@@ -1,1 +1,1 @@
-# Ana no País do Javascript
+![Github Readme](/guthub-readme@2x.png)
