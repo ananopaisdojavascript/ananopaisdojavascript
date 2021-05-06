@@ -1,1 +1,1 @@
-![Github Readme](/guthub-readme@2x.png)
+![](guthub-readme@2x.png)
